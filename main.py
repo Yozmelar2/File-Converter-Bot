@@ -20,7 +20,7 @@ import tormag
 
 
 # env
-bot_token = os.environ.get("TOKEN", "5752725687:AAH-IgljX7Jtqfb7pl6CyooMhjVD14ib0BQ") 
+bot_token = os.environ.get("TOKEN","5752725687:AAHkApA42hWm1wA_JAa94H4ddlDrRisAI0Q") 
 api_hash = os.environ.get("HASH", "ac922823455e814e44020a9f3ee17914") 
 api_id = os.environ.get("ID", "534493")
 
